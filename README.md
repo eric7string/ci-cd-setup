@@ -174,4 +174,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## 📧 Contact
-For questions or feedback, feel free to reach out [HERE](emn531@gmail.com)
+For questions or feedback, feel free to reach out [HERE!](emn531@gmail.com)
